@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# OMNIVEO
 
-You can use the [editor on GitHub](https://github.com/omniveo/omniveo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Esta es la página en GitHub de [Omniveo](http://www.omniveo.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quienes somos
 
-### Markdown
+Mejoramos la eficiencia de las empresas y organismos públicos ayudándoles a gestionar mejor sus infraestructuras, tanto de exterior como de interior, usando, como en las visitas virtuales, la fotografía 360º de alta calidad, pero enriquecida o con datos para la toma de medidas o con datos técnicos de los elementos mostrados en dichas fotografías, lo que ahorra tiempo y dinero en desplazamientos y en la toma de decisiones.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Te podemos ayudar
+- Realidad Virtual, 
+- Visitas virtuales enriquecidas, 
+- Panorámicas 360º, 
+- Infraestructuras lineales, 
+- Infraestructuras urbanas, 
+- Geomarketing, 
+- GIS, 
+- Realidad aumentada, 
+- Fotogrametría
 
-```markdown
-Syntax highlighted code block
+## Contacto
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omniveo/omniveo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Calle de los Gavilanes 8
+- Rivas-Vaciamadrid
+- 28523 Madrid
+- email: [info@omniveo.com](mailto:info@omniveo.com)
+- teléfono: 628 168 439
+- web: [http://www.omniveo.com](http://www.omniveo.com)
